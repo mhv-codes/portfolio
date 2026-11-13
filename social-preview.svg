@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Harsha Vardhan — Data and Machine Learning</title>
+  <desc id="desc">Portfolio preview for reproducible search data analysis and machine learning.</desc>
+  <rect width="1200" height="630" fill="#f4f7f4"/>
+  <circle cx="1035" cy="110" r="255" fill="#e5f3ec"/>
+  <circle cx="1115" cy="530" r="210" fill="#d9ece4"/>
+  <rect x="70" y="66" width="1060" height="498" rx="30" fill="#ffffff" stroke="#d8e3dd" stroke-width="2"/>
+  <rect x="110" y="110" width="270" height="44" rx="22" fill="#e2f5ee"/>
+  <circle cx="136" cy="132" r="7" fill="#47bfa8"/>
+  <text x="157" y="141" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#173b4b">DATA &amp; MACHINE LEARNING</text>
+  <text x="110" y="260" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="#173b4b">Harsha Vardhan</text>
+  <text x="110" y="325" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#2a3d44">Reproducible analysis and machine learning</text>
+  <text x="110" y="370" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#2a3d44">for search data.</text>
+  <rect x="110" y="425" width="310" height="60" rx="10" fill="#173b4b"/>
+  <text x="145" y="464" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">View selected work</text>
+  <g transform="translate(770 390)">
+    <rect x="0" y="0" width="270" height="100" rx="18" fill="#edf5f1"/>
+    <path d="M36 72V50h34v22M92 72V30h34v42M148 72V12h34v60M204 72V42h34v30" fill="none" stroke="#47bfa8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
